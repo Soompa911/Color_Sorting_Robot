@@ -30,6 +30,8 @@ The **Color Sorter Robot using a Robotic Arm** is an innovative automation proje
 
 Below is the main Arduino code that powers the Color Sorter Robot:
 
+- [Main Code](https://github.com/Soompa911/Color_Sorting_Robot/blob/main/MainCode.md)
+
 ## Operation Process
 
 1. **Initialization**
