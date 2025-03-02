@@ -82,13 +82,3 @@ Regular maintenance is required for optimal performance:
    - Enhanced gripper mechanism
    - Improved conveyor system
 
-## Technical Support
-
-For technical assistance or bug reports, please contact:
-- Project Lead: [Contact Information]
-- Technical Support: [Support Email]
-- Documentation: [Wiki Link]
-
----
-
-Last Updated: March 2, 2025
